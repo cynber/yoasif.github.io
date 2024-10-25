@@ -15,7 +15,7 @@ Mozilla has a list of [basic troubleshooting](https://support.mozilla.org/kb/tro
 
 Try [clearing cookies and data](https://support.mozilla.org/kb/clear-cookies-and-site-data-firefox#w_clear-cookies-for-the-current-website) for a single site.
 
-If you do not use any assistive technologies (such as screen readers, braille displays, narrators, etc), try [disabling accessibility services](https://support.mozilla.org/kb/accessibility-services#w_should-i-disable-firefox-accessibility-service).
+If you do not use any assistive technologies (such as screen readers, braille displays, narrators, etc), try [disabling accessibility services](https://web.archive.org/web/20240608190300/https://support.mozilla.org/en-US/kb/accessibility-services).
 
 If the problem is with a certain site, like you can't login, or certain functionality that used to work no longer works, try [clearing the site's data](https://support.mozilla.org/kb/clear-cookies-and-site-data-firefox#w_clear-cookies-for-the-current-website).
 
